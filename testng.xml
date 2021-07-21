@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="EmployeesRestAPISuite">
+<listeners>
+<listener class-name="com.employee_api.Utillities.Listener" />
+</listeners>
+<test thread-count="5" name="EmployeeRestAPITest">
+  <classes>
+  <class name="com.employee_api.TestCases.TC001_GetAllEmployees" />
+  <class name="com.employee_api.TestCases.TC002_Get_Employee" />
+  <class name="com.employee_api.TestCases.TC003_Post_EmployeeData" />
+   <class name="com.employee_api.TestCases.TC004_PUT_Employee" />
+  </classes>
+
+
+</test>
+
+
+
+</suite>

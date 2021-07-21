@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 33, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 47.871 s <<< FAILURE! - in TestSuite
+com.employee_api.TestCases.TC002_Get_Employee.checkContentLength  Time elapsed: 0.028 s  <<< FAILURE!
+java.lang.NumberFormatException: null
+	at com.employee_api.TestCases.TC002_Get_Employee.checkContentLength(TC002_Get_Employee.java:108)
+
+com.employee_api.TestCases.TC003_Post_EmployeeData.checkContentLength  Time elapsed: 0.033 s  <<< FAILURE!
+java.lang.NumberFormatException: null
+	at com.employee_api.TestCases.TC003_Post_EmployeeData.checkContentLength(TC003_Post_EmployeeData.java:138)
+
+com.employee_api.TestCases.TC004_PUT_Employee.checkContentLength  Time elapsed: 0.008 s  <<< FAILURE!
+java.lang.NumberFormatException: null
+	at com.employee_api.TestCases.TC004_PUT_Employee.checkContentLength(TC004_PUT_Employee.java:138)
+

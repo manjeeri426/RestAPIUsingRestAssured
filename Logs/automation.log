@@ -1,0 +1,1514 @@
+2021-06-17 20:20:17,735  INFO [main] EmployeeRestAPI:94 - Checking content encoding
+2021-06-17 20:20:17,771  INFO [main] EmployeeRestAPI:105 - Checking content length
+2021-06-17 20:20:17,797  INFO [main] EmployeeRestAPI:117 - Checking cookies
+2021-06-17 20:20:17,810  INFO [main] EmployeeRestAPI:31 - checking Response body
+2021-06-17 20:20:17,843  INFO [main] EmployeeRestAPI:47 - Checking response time
+2021-06-17 20:20:17,853  INFO [main] EmployeeRestAPI:84 - Checking server type
+2021-06-17 20:20:17,859  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 20:20:17,880  INFO [main] EmployeeRestAPI:62 - Checking Status line
+2021-06-17 20:20:17,905  INFO [main] EmployeeRestAPI:74 - Checking Content Type
+2021-06-17 20:20:17,934  INFO [main] EmployeeRestAPI:19 - Started Test case 001
+2021-06-17 20:20:30,173  INFO [main] EmployeeRestAPI:123 - Test Cases finished
+2021-06-17 20:27:14,561  INFO [main] EmployeeRestAPI:94 - Checking content encoding
+2021-06-17 20:27:14,609  INFO [main] EmployeeRestAPI:105 - Checking content length
+2021-06-17 20:27:14,630  INFO [main] EmployeeRestAPI:117 - Checking cookies
+2021-06-17 20:27:14,643  INFO [main] EmployeeRestAPI:31 - checking Response body
+2021-06-17 20:27:14,649  INFO [main] EmployeeRestAPI:47 - Checking response time
+2021-06-17 20:27:14,664  INFO [main] EmployeeRestAPI:84 - Checking server type
+2021-06-17 20:27:14,676  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 20:27:14,705  INFO [main] EmployeeRestAPI:62 - Checking Status line
+2021-06-17 20:27:14,720  INFO [main] EmployeeRestAPI:74 - Checking Content Type
+2021-06-17 20:27:14,737  INFO [main] EmployeeRestAPI:19 - Started Test case 001
+2021-06-17 20:27:26,681  INFO [main] EmployeeRestAPI:123 - Test Cases finished
+2021-06-17 20:28:07,532  INFO [main] EmployeeRestAPI:97 - Checking content encoding
+2021-06-17 20:28:07,575  INFO [main] EmployeeRestAPI:108 - Checking content length
+2021-06-17 20:28:07,598  INFO [main] EmployeeRestAPI:120 - Checking cookies
+2021-06-17 20:28:07,607  INFO [main] EmployeeRestAPI:34 - checking Response body
+2021-06-17 20:28:07,618  INFO [main] EmployeeRestAPI:50 - Checking response time
+2021-06-17 20:28:07,624  INFO [main] EmployeeRestAPI:87 - Checking server type
+2021-06-17 20:28:07,643  INFO [main] EmployeeRestAPI:42 - Checking status code
+2021-06-17 20:28:07,660  INFO [main] EmployeeRestAPI:65 - Checking Status line
+2021-06-17 20:28:07,670  INFO [main] EmployeeRestAPI:77 - Checking Content Type
+2021-06-17 20:28:07,709  INFO [main] EmployeeRestAPI:19 - Started Test case 001
+2021-06-17 20:28:16,761  INFO [main] EmployeeRestAPI:24 - checking Response body
+2021-06-17 20:28:20,304  INFO [main] EmployeeRestAPI:126 - Test Cases finished
+2021-06-17 20:33:56,341  INFO [main] EmployeeRestAPI:97 - Checking content encoding
+2021-06-17 20:33:56,376  INFO [main] EmployeeRestAPI:108 - Checking content length
+2021-06-17 20:33:56,388  INFO [main] EmployeeRestAPI:120 - Checking cookies
+2021-06-17 20:33:56,398  INFO [main] EmployeeRestAPI:34 - checking Response body
+2021-06-17 20:33:56,418  INFO [main] EmployeeRestAPI:50 - Checking response time
+2021-06-17 20:33:56,433  INFO [main] EmployeeRestAPI:87 - Checking server type
+2021-06-17 20:33:56,443  INFO [main] EmployeeRestAPI:42 - Checking status code
+2021-06-17 20:33:56,450  INFO [main] EmployeeRestAPI:65 - Checking Status line
+2021-06-17 20:33:56,464  INFO [main] EmployeeRestAPI:77 - Checking Content Type
+2021-06-17 20:33:56,474  INFO [main] EmployeeRestAPI:19 - Started Test case 001
+2021-06-17 20:34:06,541  INFO [main] EmployeeRestAPI:24 - checking Response body
+2021-06-17 20:34:09,615  INFO [main] EmployeeRestAPI:126 - Test Cases finished
+2021-06-17 20:34:45,508  INFO [main] EmployeeRestAPI:97 - Checking content encoding
+2021-06-17 20:34:45,544  INFO [main] EmployeeRestAPI:108 - Checking content length
+2021-06-17 20:34:45,556  INFO [main] EmployeeRestAPI:120 - Checking cookies
+2021-06-17 20:34:45,567  INFO [main] EmployeeRestAPI:34 - checking Response body
+2021-06-17 20:34:45,599  INFO [main] EmployeeRestAPI:50 - Checking response time
+2021-06-17 20:34:45,608  INFO [main] EmployeeRestAPI:87 - Checking server type
+2021-06-17 20:34:45,619  INFO [main] EmployeeRestAPI:42 - Checking status code
+2021-06-17 20:34:45,626  INFO [main] EmployeeRestAPI:65 - Checking Status line
+2021-06-17 20:34:45,640  INFO [main] EmployeeRestAPI:77 - Checking Content Type
+2021-06-17 20:34:45,683  INFO [main] EmployeeRestAPI:19 - Started Test case 001
+2021-06-17 20:34:54,700  INFO [main] EmployeeRestAPI:24 - checking Response body
+2021-06-17 20:34:57,899  INFO [main] EmployeeRestAPI:126 - Test Cases finished
+2021-06-17 20:36:09,570  INFO [main] EmployeeRestAPI:97 - Checking content encoding
+2021-06-17 20:36:09,665  INFO [main] EmployeeRestAPI:108 - Checking content length
+2021-06-17 20:36:09,706  INFO [main] EmployeeRestAPI:120 - Checking cookies
+2021-06-17 20:36:09,730  INFO [main] EmployeeRestAPI:34 - checking Response body
+2021-06-17 20:36:09,805  INFO [main] EmployeeRestAPI:50 - Checking response time
+2021-06-17 20:36:09,828  INFO [main] EmployeeRestAPI:87 - Checking server type
+2021-06-17 20:36:09,883  INFO [main] EmployeeRestAPI:42 - Checking status code
+2021-06-17 20:36:09,918  INFO [main] EmployeeRestAPI:65 - Checking Status line
+2021-06-17 20:36:09,986  INFO [main] EmployeeRestAPI:77 - Checking Content Type
+2021-06-17 20:36:10,019  INFO [main] EmployeeRestAPI:19 - Started Test case 001
+2021-06-17 20:36:19,257  INFO [main] EmployeeRestAPI:24 - checking Response body
+2021-06-17 20:36:22,323  INFO [main] EmployeeRestAPI:126 - Test Cases finished
+2021-06-17 20:38:52,323  INFO [main] EmployeeRestAPI:97 - Checking content encoding
+2021-06-17 20:38:52,355  INFO [main] EmployeeRestAPI:108 - Checking content length
+2021-06-17 20:38:52,372  INFO [main] EmployeeRestAPI:120 - Checking cookies
+2021-06-17 20:38:52,378  INFO [main] EmployeeRestAPI:34 - checking Response body
+2021-06-17 20:38:52,389  INFO [main] EmployeeRestAPI:50 - Checking response time
+2021-06-17 20:38:52,405  INFO [main] EmployeeRestAPI:87 - Checking server type
+2021-06-17 20:38:52,414  INFO [main] EmployeeRestAPI:42 - Checking status code
+2021-06-17 20:38:52,431  INFO [main] EmployeeRestAPI:65 - Checking Status line
+2021-06-17 20:38:52,441  INFO [main] EmployeeRestAPI:77 - Checking Content Type
+2021-06-17 20:38:52,458  INFO [main] EmployeeRestAPI:19 - Started Test case 001
+2021-06-17 20:39:01,991  INFO [main] EmployeeRestAPI:24 - checking Response body
+2021-06-17 20:39:05,110  INFO [main] EmployeeRestAPI:126 - Test Cases finished
+2021-06-17 20:44:47,576  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-17 20:44:57,251  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-17 20:45:00,337  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-17 20:45:00,356  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-17 20:45:00,367  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-17 20:45:00,378  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-17 20:45:00,392  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-17 20:45:00,395  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-17 20:45:00,433  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-17 20:45:00,454  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-17 20:45:00,475  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-17 20:45:00,486  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-17 20:45:00,490  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-17 20:45:34,662  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-17 20:45:45,739  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-17 20:45:48,872  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-17 20:45:48,910  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-17 20:45:48,974  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-17 20:45:49,078  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-17 20:45:49,110  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-17 20:45:49,135  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-17 20:45:49,193  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-17 20:45:49,273  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-17 20:45:49,328  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-17 20:45:49,360  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-17 20:45:49,406  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-17 20:48:24,275  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-17 20:48:33,638  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-17 20:48:36,818  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-17 20:48:36,832  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-17 20:48:36,838  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-17 20:48:36,846  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-17 20:48:36,853  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-17 20:48:36,857  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-17 20:48:36,879  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-17 20:48:36,913  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-17 20:48:36,920  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-17 20:48:36,928  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-17 20:48:36,932  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-17 21:02:25,987  INFO [main] EmployeeRestAPI:17 - Starting TestCase 002
+2021-06-17 21:02:35,610  INFO [main] EmployeeRestAPI:30 - Checking status code
+2021-06-17 21:02:59,812  INFO [main] EmployeeRestAPI:17 - Starting TestCase 002
+2021-06-17 21:03:08,967  INFO [main] EmployeeRestAPI:30 - Checking status code
+2021-06-17 21:13:48,251  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:13:56,656  INFO [main] EmployeeRestAPI:94 - Checking content encoding
+2021-06-17 21:13:56,675  INFO [main] EmployeeRestAPI:105 - Checking content length
+2021-06-17 21:13:56,714  INFO [main] EmployeeRestAPI:57 - Checking response time
+2021-06-17 21:13:56,715  WARN [main] EmployeeRestAPI:63 - Response time is greater than 2000
+2021-06-17 21:13:56,724  INFO [main] EmployeeRestAPI:84 - Checking server type
+2021-06-17 21:13:56,731  INFO [main] EmployeeRestAPI:38 - Checking status code
+2021-06-17 21:13:56,742  INFO [main] EmployeeRestAPI:46 - Checking Status line
+2021-06-17 21:13:56,763  INFO [main] EmployeeRestAPI:74 - Checking Content Type
+2021-06-17 21:13:56,782  INFO [main] EmployeeRestAPI:118 - Test Cases finished
+2021-06-17 21:15:11,643  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:15:21,615  INFO [main] EmployeeRestAPI:94 - Checking content encoding
+2021-06-17 21:15:21,667  INFO [main] EmployeeRestAPI:105 - Checking content length
+2021-06-17 21:15:21,788  INFO [main] EmployeeRestAPI:57 - Checking response time
+2021-06-17 21:15:21,839  WARN [main] EmployeeRestAPI:63 - Response time is greater than 2000
+2021-06-17 21:15:21,854  INFO [main] EmployeeRestAPI:84 - Checking server type
+2021-06-17 21:15:21,887  INFO [main] EmployeeRestAPI:38 - Checking status code
+2021-06-17 21:15:22,003  INFO [main] EmployeeRestAPI:46 - Checking Status line
+2021-06-17 21:15:22,024  INFO [main] EmployeeRestAPI:74 - Checking Content Type
+2021-06-17 21:15:22,034  INFO [main] EmployeeRestAPI:118 - Test Cases finished
+2021-06-17 21:16:31,119  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:16:44,872  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 21:16:44,932  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 21:16:45,029  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 21:16:45,034  WARN [main] EmployeeRestAPI:64 - Response time is greater than 2000
+2021-06-17 21:16:45,065  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 21:16:45,113  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:16:45,165  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 21:16:45,252  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 21:16:45,293  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:17:11,029  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:17:23,396  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 21:17:23,454  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 21:17:23,499  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 21:17:23,501  WARN [main] EmployeeRestAPI:64 - Response time is greater than 2000
+2021-06-17 21:17:23,507  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 21:17:23,513  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:17:23,526  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 21:17:23,537  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 21:17:23,543  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:18:40,389  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:18:52,353  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 21:18:52,368  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 21:18:52,385  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 21:18:52,387  WARN [main] EmployeeRestAPI:64 - Response time is greater than 2000
+2021-06-17 21:18:52,395  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 21:18:52,430  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:18:52,457  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 21:18:52,473  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 21:18:52,481  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:21:23,729  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:21:37,283  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 21:21:37,328  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 21:21:37,485  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 21:21:37,500  WARN [main] EmployeeRestAPI:64 - Response time is greater than 2000
+2021-06-17 21:21:37,519  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 21:21:37,595  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:21:37,622  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 21:21:37,642  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 21:21:37,658  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:24:09,511  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:24:21,507  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 21:24:21,527  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 21:24:21,551  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 21:24:21,553  WARN [main] EmployeeRestAPI:64 - Response time is greater than 2000
+2021-06-17 21:24:21,558  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 21:24:21,569  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:24:21,583  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 21:24:21,598  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 21:24:21,605  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:25:18,350  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:25:30,776  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 21:25:30,795  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 21:25:30,812  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 21:25:30,819  WARN [main] EmployeeRestAPI:64 - Response time is greater than 2000
+2021-06-17 21:25:30,830  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 21:25:30,843  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:25:30,856  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 21:25:30,871  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 21:25:30,880  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:26:37,664  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:26:50,617  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 21:26:50,643  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 21:26:50,681  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 21:26:50,682  WARN [main] EmployeeRestAPI:64 - Response time is greater than 2000
+2021-06-17 21:26:50,690  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 21:26:50,708  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:26:50,724  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 21:26:50,734  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 21:26:50,745  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:27:52,721  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:28:04,799  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 21:28:04,874  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 21:28:05,033  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 21:28:05,042  WARN [main] EmployeeRestAPI:64 - Response time is greater than 2000
+2021-06-17 21:28:05,076  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 21:28:05,101  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:28:05,157  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 21:28:05,202  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 21:28:05,220  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:28:39,520  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:28:51,602  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 21:28:51,618  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 21:28:51,634  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 21:28:51,635  WARN [main] EmployeeRestAPI:64 - Response time is greater than 2000
+2021-06-17 21:28:51,640  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 21:28:51,646  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:28:51,672  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 21:28:51,686  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 21:28:51,692  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:29:39,980  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:29:51,775  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 21:29:51,794  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 21:29:51,820  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 21:29:51,821  WARN [main] EmployeeRestAPI:64 - Response time is greater than 2000
+2021-06-17 21:29:51,833  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 21:29:51,851  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:29:51,869  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 21:29:51,877  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 21:29:51,884  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:31:57,461  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:32:10,855  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:32:10,871  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:32:21,054  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:32:34,305  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:32:34,318  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:32:52,436  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:33:06,034  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:33:06,049  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:33:24,975  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:33:39,236  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:33:39,245  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:35:18,721  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:35:31,646  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:35:31,670  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:36:20,538  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:36:32,887  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 21:36:32,900  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 21:36:32,916  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 21:36:32,920  WARN [main] EmployeeRestAPI:64 - Response time is greater than 2000
+2021-06-17 21:36:32,925  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 21:36:32,942  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:36:32,968  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 21:36:32,975  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 21:36:32,982  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 21:36:58,537  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-17 21:37:09,432  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-17 21:37:12,560  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-17 21:37:12,578  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-17 21:37:12,585  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-17 21:37:12,597  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-17 21:37:12,620  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-17 21:37:12,631  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-17 21:37:12,665  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-17 21:37:12,677  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-17 21:37:12,685  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-17 21:37:12,694  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-17 21:37:12,717  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-17 21:42:07,303  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 21:42:19,413  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 21:42:19,427  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 21:42:19,445  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 21:42:19,452  WARN [main] EmployeeRestAPI:64 - Response time is greater than 2000
+2021-06-17 21:42:19,457  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 21:42:19,470  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 21:42:19,477  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 21:42:19,484  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 21:42:19,494  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 22:04:45,947  INFO [main] EmployeeRestAPI:49 - Checking status code
+2021-06-17 22:04:45,979  INFO [main] EmployeeRestAPI:57 - Checking Status line
+2021-06-17 22:05:19,484  INFO [main] EmployeeRestAPI:49 - Checking status code
+2021-06-17 22:05:19,541  INFO [main] EmployeeRestAPI:57 - Checking Status line
+2021-06-17 22:07:00,568  INFO [main] EmployeeRestAPI:49 - Checking status code
+2021-06-17 22:07:00,590  INFO [main] EmployeeRestAPI:57 - Checking Status line
+2021-06-17 22:09:21,691  INFO [main] EmployeeRestAPI:51 - Checking status code
+2021-06-17 22:09:21,723  INFO [main] EmployeeRestAPI:59 - Checking Status line
+2021-06-17 22:11:12,986  INFO [main] EmployeeRestAPI:52 - Checking status code
+2021-06-17 22:11:13,019  INFO [main] EmployeeRestAPI:60 - Checking Status line
+2021-06-17 22:18:12,417  INFO [main] EmployeeRestAPI:24 - Started Test Case 003
+2021-06-17 22:18:28,587  INFO [main] EmployeeRestAPI:118 - Checking content encoding
+2021-06-17 22:18:28,610  INFO [main] EmployeeRestAPI:129 - Checking content length
+2021-06-17 22:18:28,650  INFO [main] EmployeeRestAPI:72 - Checking Response Body
+2021-06-17 22:18:28,666  INFO [main] EmployeeRestAPI:81 - Checking response time
+2021-06-17 22:18:28,667  WARN [main] EmployeeRestAPI:87 - Response time is greater than 2000
+2021-06-17 22:18:28,675  INFO [main] EmployeeRestAPI:108 - Checking server type
+2021-06-17 22:18:28,697  INFO [main] EmployeeRestAPI:53 - Checking status code
+2021-06-17 22:18:28,721  INFO [main] EmployeeRestAPI:61 - Checking Status line
+2021-06-17 22:18:28,735  INFO [main] EmployeeRestAPI:98 - Checking Content Type
+2021-06-17 22:18:28,746  INFO [main] EmployeeRestAPI:142 - Test Cases finished
+2021-06-17 22:27:28,907  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-17 22:27:42,812  INFO [main] EmployeeRestAPI:123 - Checking content encoding
+2021-06-17 22:27:42,889  INFO [main] EmployeeRestAPI:134 - Checking content length
+2021-06-17 22:27:42,922  INFO [main] EmployeeRestAPI:77 - Checking Response Body
+2021-06-17 22:27:42,943  INFO [main] EmployeeRestAPI:86 - Checking response time
+2021-06-17 22:27:42,946  WARN [main] EmployeeRestAPI:92 - Response time is greater than 2000
+2021-06-17 22:27:42,959  INFO [main] EmployeeRestAPI:113 - Checking server type
+2021-06-17 22:27:43,013  INFO [main] EmployeeRestAPI:58 - Checking status code
+2021-06-17 22:27:43,046  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-17 22:27:43,079  INFO [main] EmployeeRestAPI:103 - Checking Content Type
+2021-06-17 22:27:43,121  INFO [main] EmployeeRestAPI:147 - Test Cases finished
+2021-06-17 22:29:36,481  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-17 22:29:51,537  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-17 22:29:51,575  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-17 22:29:51,585  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-17 22:29:51,596  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-17 22:29:51,597  WARN [main] EmployeeRestAPI:94 - Response time is greater than 2000
+2021-06-17 22:29:51,605  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-17 22:29:51,627  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-17 22:29:51,639  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-17 22:29:51,647  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-17 22:29:51,656  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-17 22:29:59,157  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-17 22:30:14,806  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-17 22:30:14,852  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-17 22:30:14,890  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-17 22:30:14,900  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-17 22:30:14,901  WARN [main] EmployeeRestAPI:94 - Response time is greater than 2000
+2021-06-17 22:30:14,906  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-17 22:30:14,932  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-17 22:30:14,953  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-17 22:30:14,987  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-17 22:30:14,998  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-17 22:30:36,570  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-17 22:30:50,202  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-17 22:30:50,222  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-17 22:30:50,237  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-17 22:30:50,251  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-17 22:30:50,252  WARN [main] EmployeeRestAPI:94 - Response time is greater than 2000
+2021-06-17 22:30:50,257  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-17 22:30:50,265  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-17 22:30:50,280  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-17 22:30:50,291  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-17 22:30:50,299  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-17 22:31:23,292  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-17 22:31:37,299  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-17 22:31:37,331  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-17 22:32:34,036  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-17 22:32:50,572  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-17 22:32:50,592  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-17 22:33:41,442  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-17 22:33:57,421  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-17 22:33:57,444  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-17 22:50:10,092  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-17 22:50:26,585  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-17 22:50:26,612  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-17 22:50:26,626  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-17 22:50:26,642  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-17 22:50:26,643  WARN [main] EmployeeRestAPI:94 - Response time is greater than 2000
+2021-06-17 22:50:26,660  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-17 22:50:26,688  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-17 22:50:26,711  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-17 22:50:26,737  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-17 22:50:26,752  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-17 23:08:59,314  INFO [main] EmployeeRestAPI:19 - *********Started TC005_Delete_Employee_Record **********
+2021-06-17 23:11:17,232  INFO [main] EmployeeRestAPI:19 - *********Started TC005_Delete_Employee_Record **********
+2021-06-17 23:11:38,732  INFO [main] EmployeeRestAPI:84 - *********  Finished TC005_Delete_Employee_Record **********
+2021-06-17 23:12:53,939  INFO [main] EmployeeRestAPI:19 - *********Started TC005_Delete_Employee_Record **********
+2021-06-17 23:13:20,651  INFO [main] EmployeeRestAPI:19 - *********Started TC005_Delete_Employee_Record **********
+2021-06-17 23:13:38,685  INFO [main] EmployeeRestAPI:84 - *********  Finished TC005_Delete_Employee_Record **********
+2021-06-17 23:55:34,160  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-17 23:55:43,503  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 23:55:43,742  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-17 23:55:44,161  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-17 23:58:37,998  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-17 23:58:49,365  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-17 23:58:52,530  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-17 23:58:52,577  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-17 23:58:52,636  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-17 23:58:52,684  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-17 23:58:52,773  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-17 23:58:52,796  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-17 23:58:52,810  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-17 23:58:52,868  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-17 23:58:52,911  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-17 23:58:52,951  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-17 23:58:52,975  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-17 23:58:53,099  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-17 23:58:57,682  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-17 23:58:57,690  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-17 23:58:57,702  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-17 23:58:57,708  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-17 23:58:57,712  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-17 23:58:57,729  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-17 23:58:57,737  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-17 23:58:57,750  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-17 23:58:57,755  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-17 23:59:04,164  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-17 23:59:04,183  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-17 23:59:04,201  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-17 23:59:04,353  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-17 23:59:04,425  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-17 23:59:04,473  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-17 23:59:04,536  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-17 23:59:04,554  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-17 23:59:04,572  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-17 23:59:04,593  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-17 23:59:11,197  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-17 23:59:11,208  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-17 23:59:11,220  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-17 23:59:11,234  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-17 23:59:11,329  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-17 23:59:11,401  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-17 23:59:11,462  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-17 23:59:11,525  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-17 23:59:11,555  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:09:50,475  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-18 00:10:00,754  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-18 00:10:04,062  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-18 00:10:04,242  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-18 00:10:04,300  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-18 00:10:04,315  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-18 00:10:04,406  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-18 00:10:04,412  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-18 00:10:04,440  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-18 00:10:04,473  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-18 00:10:04,515  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-18 00:10:04,539  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-18 00:10:04,566  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-18 00:10:04,605  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-18 00:10:08,950  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-18 00:10:08,961  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-18 00:10:08,977  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-18 00:10:08,988  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-18 00:10:08,994  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-18 00:10:09,019  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-18 00:10:09,041  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-18 00:10:09,064  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-18 00:10:09,095  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:10:15,808  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:10:15,835  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:10:15,863  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:10:15,884  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:10:15,969  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:10:16,034  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:10:16,122  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:10:16,146  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:10:16,195  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:10:16,255  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:10:23,202  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:10:23,226  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:10:23,257  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:10:23,316  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:10:23,459  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:10:23,477  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:10:23,558  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:10:23,632  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:10:23,811  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:10:24,217 DEBUG [main] cache:45 - Couldn't find template in cache for "extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:10:24,221 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en_US.ftl"): Not found
+2021-06-18 00:10:24,224 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en.ftl"): Not found
+2021-06-18 00:10:24,226 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent.ftl"): Found
+2021-06-18 00:10:24,227 DEBUG [main] cache:45 - Loading template for "extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/extent.ftl"
+2021-06-18 00:10:24,841 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:10:24,842 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en_US.ftl"): Not found
+2021-06-18 00:10:24,842 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-06-18 00:10:24,843 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-06-18 00:10:24,846 DEBUG [main] cache:45 - Loading template for "head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/head.ftl"
+2021-06-18 00:10:24,954 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:10:24,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en_US.ftl"): Not found
+2021-06-18 00:10:24,957 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-06-18 00:10:25,054 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-06-18 00:10:25,055 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/nav.ftl"
+2021-06-18 00:10:25,264 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:10:25,266 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en_US.ftl"): Not found
+2021-06-18 00:10:25,267 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-06-18 00:10:25,268 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-06-18 00:10:25,274 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view.ftl"
+2021-06-18 00:10:25,831 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:10:25,833 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en_US.ftl"): Not found
+2021-06-18 00:10:25,836 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-06-18 00:10:25,837 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-06-18 00:10:25,838 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view-charts.ftl"
+2021-06-18 00:10:26,009 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:10:26,013 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en_US.ftl"): Not found
+2021-06-18 00:10:26,022 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-06-18 00:10:26,036 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-06-18 00:10:26,040 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/standard.ftl"
+2021-06-18 00:10:26,149 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,155 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,170 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,176 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,207 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,224 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,238 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,250 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,256 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,259 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,264 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,268 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,271 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,274 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,281 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,288 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,298 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,302 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,332 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,333 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,337 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,341 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,346 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,347 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,348 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,349 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,350 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,352 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,354 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,367 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,371 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,375 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:10:26,377 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:10:26,377 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en_US.ftl"): Not found
+2021-06-18 00:10:26,378 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-06-18 00:10:26,382 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-06-18 00:10:26,388 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/category-view/category-view.ftl"
+2021-06-18 00:10:26,452 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:10:26,455 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en_US.ftl"): Not found
+2021-06-18 00:10:26,459 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-06-18 00:10:26,463 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-06-18 00:10:26,463 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/exception-view/exception-view.ftl"
+2021-06-18 00:10:26,471 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:10:26,476 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en_US.ftl"): Not found
+2021-06-18 00:10:26,480 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-06-18 00:10:26,481 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-06-18 00:10:26,482 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/dashboard-view/dashboard-view.ftl"
+2021-06-18 00:10:26,512 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:10:26,516 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en_US.ftl"): Not found
+2021-06-18 00:10:26,520 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-06-18 00:10:26,523 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-06-18 00:10:26,527 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/logs-view/testrunner-logs-view.ftl"
+2021-06-18 00:16:15,883  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-18 00:16:26,967  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-18 00:16:30,257  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-18 00:16:30,321  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-18 00:16:30,335  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-18 00:16:30,357  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-18 00:16:30,367  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-18 00:16:30,370  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-18 00:16:30,389  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-18 00:16:30,404  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-18 00:16:30,426  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-18 00:16:30,436  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-18 00:16:30,486  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-18 00:16:30,506  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-18 00:16:34,871  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-18 00:16:34,876  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-18 00:16:34,890  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-18 00:16:34,896  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-18 00:16:34,900  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-18 00:16:34,910  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-18 00:16:34,914  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-18 00:16:34,921  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-18 00:16:34,927  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:16:41,477  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:16:41,482  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:16:41,490  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:16:41,499  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:16:41,515  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:16:41,536  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:16:41,572  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:16:41,577  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:16:41,581  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:16:41,585  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:16:48,396  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:16:48,410  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:16:48,417  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:16:48,425  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:16:48,441  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:16:48,575  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:16:48,600  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:16:48,618  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:16:48,625  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:16:49,742 DEBUG [main] cache:45 - Couldn't find template in cache for "extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:16:49,752 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en_US.ftl"): Not found
+2021-06-18 00:16:49,760 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en.ftl"): Not found
+2021-06-18 00:16:49,767 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent.ftl"): Found
+2021-06-18 00:16:49,769 DEBUG [main] cache:45 - Loading template for "extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/extent.ftl"
+2021-06-18 00:16:52,163 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:16:52,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en_US.ftl"): Not found
+2021-06-18 00:16:52,171 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-06-18 00:16:52,175 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-06-18 00:16:52,181 DEBUG [main] cache:45 - Loading template for "head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/head.ftl"
+2021-06-18 00:16:52,188 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:16:52,540 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en_US.ftl"): Not found
+2021-06-18 00:16:52,544 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-06-18 00:16:52,551 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-06-18 00:16:52,552 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/nav.ftl"
+2021-06-18 00:16:52,568 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:16:52,634 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en_US.ftl"): Not found
+2021-06-18 00:16:52,635 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-06-18 00:16:52,637 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-06-18 00:16:52,664 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view.ftl"
+2021-06-18 00:16:53,420 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:16:53,423 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en_US.ftl"): Not found
+2021-06-18 00:16:53,424 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-06-18 00:16:53,425 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-06-18 00:16:53,426 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view-charts.ftl"
+2021-06-18 00:16:53,484 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:16:53,489 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en_US.ftl"): Not found
+2021-06-18 00:16:53,493 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-06-18 00:16:53,495 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-06-18 00:16:53,496 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/standard.ftl"
+2021-06-18 00:16:53,584 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,666 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,681 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,688 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,705 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,713 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,788 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,807 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,814 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,817 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,896 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,898 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,903 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,906 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,911 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,917 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,921 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,924 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,927 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,930 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,932 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,933 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,934 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,936 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,939 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,940 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,941 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,946 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,978 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:53,987 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:54,005 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:54,007 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:16:54,009 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:16:54,023 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en_US.ftl"): Not found
+2021-06-18 00:16:54,027 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-06-18 00:16:54,039 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-06-18 00:16:54,039 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/category-view/category-view.ftl"
+2021-06-18 00:16:54,047 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:16:54,049 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en_US.ftl"): Not found
+2021-06-18 00:16:54,050 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-06-18 00:16:54,051 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-06-18 00:16:54,051 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/exception-view/exception-view.ftl"
+2021-06-18 00:16:54,057 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:16:54,059 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en_US.ftl"): Not found
+2021-06-18 00:16:54,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-06-18 00:16:54,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-06-18 00:16:54,061 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/dashboard-view/dashboard-view.ftl"
+2021-06-18 00:16:54,125 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:16:54,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en_US.ftl"): Not found
+2021-06-18 00:16:54,133 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-06-18 00:16:54,137 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-06-18 00:16:54,151 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/logs-view/testrunner-logs-view.ftl"
+2021-06-18 00:17:28,122  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:17:46,710  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:17:46,730  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:17:46,742  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:17:46,753  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:17:46,756  WARN [main] EmployeeRestAPI:94 - Response time is greater than 2000
+2021-06-18 00:17:46,767  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:17:46,775  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:17:46,804  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:17:46,818  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:17:46,825  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:19:01,571  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-18 00:19:10,791  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-18 00:19:14,118  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-18 00:19:14,176  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-18 00:19:14,187  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-18 00:19:14,200  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-18 00:19:14,215  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-18 00:19:14,219  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-18 00:19:14,234  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-18 00:19:14,250  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-18 00:19:14,287  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-18 00:19:14,302  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-18 00:19:14,315  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-18 00:19:14,323  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-18 00:19:18,778  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-18 00:19:18,807  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-18 00:19:18,881  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-18 00:19:18,957  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-18 00:19:18,986  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-18 00:19:19,041  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-18 00:19:19,069  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-18 00:19:19,110  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-18 00:19:19,132  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:19:26,086  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:19:26,092  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:19:26,100  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:19:26,113  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:19:26,133  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:19:26,145  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:19:26,164  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:19:26,191  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:19:26,207  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:19:26,218  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:19:32,652  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:19:32,659  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:19:32,667  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:19:32,675  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:19:32,689  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:19:32,697  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:19:32,717  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:19:32,755  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:19:32,771  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:19:32,964 DEBUG [main] cache:45 - Couldn't find template in cache for "extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:19:32,968 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en_US.ftl"): Not found
+2021-06-18 00:19:32,977 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en.ftl"): Not found
+2021-06-18 00:19:32,983 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent.ftl"): Found
+2021-06-18 00:19:32,987 DEBUG [main] cache:45 - Loading template for "extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/extent.ftl"
+2021-06-18 00:19:33,376 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:19:33,380 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en_US.ftl"): Not found
+2021-06-18 00:19:33,386 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-06-18 00:19:33,390 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-06-18 00:19:33,394 DEBUG [main] cache:45 - Loading template for "head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/head.ftl"
+2021-06-18 00:19:33,404 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:19:33,405 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en_US.ftl"): Not found
+2021-06-18 00:19:33,406 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-06-18 00:19:33,407 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-06-18 00:19:33,407 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/nav.ftl"
+2021-06-18 00:19:33,423 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:19:33,427 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en_US.ftl"): Not found
+2021-06-18 00:19:33,445 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-06-18 00:19:33,454 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-06-18 00:19:33,489 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view.ftl"
+2021-06-18 00:19:33,636 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:19:33,640 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en_US.ftl"): Not found
+2021-06-18 00:19:33,645 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-06-18 00:19:33,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-06-18 00:19:33,658 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view-charts.ftl"
+2021-06-18 00:19:33,684 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:19:33,685 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en_US.ftl"): Not found
+2021-06-18 00:19:33,686 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-06-18 00:19:33,687 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-06-18 00:19:33,688 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/standard.ftl"
+2021-06-18 00:19:33,727 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,754 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,770 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,777 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,788 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,798 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,811 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,823 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,835 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,838 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,842 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,845 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,848 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,857 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,871 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,880 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,891 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,895 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,935 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,940 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,946 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,950 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,952 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,953 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,954 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,955 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,956 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,957 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,958 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,959 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,960 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,962 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:19:33,963 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:19:33,982 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en_US.ftl"): Not found
+2021-06-18 00:19:33,986 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-06-18 00:19:33,998 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-06-18 00:19:33,999 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/category-view/category-view.ftl"
+2021-06-18 00:19:34,021 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:19:34,027 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en_US.ftl"): Not found
+2021-06-18 00:19:34,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-06-18 00:19:34,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-06-18 00:19:34,032 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/exception-view/exception-view.ftl"
+2021-06-18 00:19:34,038 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:19:34,042 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en_US.ftl"): Not found
+2021-06-18 00:19:34,043 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-06-18 00:19:34,043 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-06-18 00:19:34,044 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/dashboard-view/dashboard-view.ftl"
+2021-06-18 00:19:34,060 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:19:34,061 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en_US.ftl"): Not found
+2021-06-18 00:19:34,062 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-06-18 00:19:34,063 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-06-18 00:19:34,063 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/logs-view/testrunner-logs-view.ftl"
+2021-06-18 00:20:26,487  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-18 00:20:36,842  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-18 00:20:40,174  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-18 00:20:40,353  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-18 00:20:40,389  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-18 00:20:40,413  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-18 00:20:40,446  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-18 00:20:40,455  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-18 00:20:40,507  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-18 00:20:40,569  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-18 00:20:40,595  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-18 00:20:40,635  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-18 00:20:40,696  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-18 00:20:40,745  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-18 00:20:45,494  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-18 00:20:45,501  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-18 00:20:45,525  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-18 00:20:45,530  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-18 00:20:45,542  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-18 00:20:45,556  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-18 00:20:45,569  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-18 00:20:45,578  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-18 00:20:45,590  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:20:52,209  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:20:52,266  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:20:52,327  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:20:52,395  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:20:52,452  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:20:52,549  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:20:52,620  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:20:52,645  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:20:52,701  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:20:52,722  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:20:59,322  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:20:59,342  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:20:59,358  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:20:59,391  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:20:59,515  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:20:59,613  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:20:59,819  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:20:59,833  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:20:59,839  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:21:00,453 DEBUG [main] cache:45 - Couldn't find template in cache for "extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:21:00,464 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en_US.ftl"): Not found
+2021-06-18 00:21:00,472 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en.ftl"): Not found
+2021-06-18 00:21:00,477 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent.ftl"): Found
+2021-06-18 00:21:00,480 DEBUG [main] cache:45 - Loading template for "extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/extent.ftl"
+2021-06-18 00:21:01,081 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:21:01,083 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en_US.ftl"): Not found
+2021-06-18 00:21:01,083 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-06-18 00:21:01,087 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-06-18 00:21:01,088 DEBUG [main] cache:45 - Loading template for "head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/head.ftl"
+2021-06-18 00:21:01,112 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:21:01,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en_US.ftl"): Not found
+2021-06-18 00:21:01,120 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-06-18 00:21:01,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-06-18 00:21:01,129 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/nav.ftl"
+2021-06-18 00:21:01,222 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:21:01,225 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en_US.ftl"): Not found
+2021-06-18 00:21:01,233 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-06-18 00:21:01,237 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-06-18 00:21:01,261 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view.ftl"
+2021-06-18 00:21:01,397 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:21:01,399 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en_US.ftl"): Not found
+2021-06-18 00:21:01,401 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-06-18 00:21:01,402 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-06-18 00:21:01,403 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view-charts.ftl"
+2021-06-18 00:21:01,430 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:21:01,434 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en_US.ftl"): Not found
+2021-06-18 00:21:01,438 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-06-18 00:21:01,441 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-06-18 00:21:01,445 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/standard.ftl"
+2021-06-18 00:21:01,596 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,602 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,610 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,615 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,718 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,723 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,727 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,841 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,844 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,846 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,848 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,850 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,852 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,854 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,860 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,872 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,882 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,890 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,895 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,902 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,958 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,960 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,961 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,963 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,965 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,966 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,967 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,978 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,984 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,988 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,994 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:01,998 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:21:02,006 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:21:02,010 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en_US.ftl"): Not found
+2021-06-18 00:21:02,014 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-06-18 00:21:02,024 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-06-18 00:21:02,035 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/category-view/category-view.ftl"
+2021-06-18 00:21:02,056 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:21:02,066 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en_US.ftl"): Not found
+2021-06-18 00:21:02,092 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-06-18 00:21:02,093 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-06-18 00:21:02,093 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/exception-view/exception-view.ftl"
+2021-06-18 00:21:02,108 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:21:02,112 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en_US.ftl"): Not found
+2021-06-18 00:21:02,121 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-06-18 00:21:02,125 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-06-18 00:21:02,129 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/dashboard-view/dashboard-view.ftl"
+2021-06-18 00:21:02,175 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:21:02,177 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en_US.ftl"): Not found
+2021-06-18 00:21:02,177 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-06-18 00:21:02,178 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-06-18 00:21:02,179 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/logs-view/testrunner-logs-view.ftl"
+2021-06-18 00:21:32,939  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-18 00:21:44,671  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-18 00:21:47,880  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-18 00:21:48,091  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-18 00:21:48,153  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-18 00:21:48,177  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-18 00:21:48,198  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-18 00:21:48,212  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-18 00:21:48,237  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-18 00:21:48,285  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-18 00:21:48,321  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-18 00:21:48,360  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-18 00:21:48,394  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-18 00:21:48,437  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-18 00:21:53,008  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-18 00:21:53,025  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-18 00:21:53,100  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-18 00:21:53,172  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-18 00:21:53,200  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-18 00:21:53,220  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-18 00:21:53,265  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-18 00:21:53,286  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-18 00:21:53,305  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:22:54,571  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-18 00:23:04,650  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-18 00:23:07,874  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-18 00:23:07,944  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-18 00:23:07,954  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-18 00:23:07,964  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-18 00:23:07,982  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-18 00:23:07,983  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-18 00:23:07,990  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-18 00:23:07,995  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-18 00:23:08,012  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-18 00:23:08,030  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-18 00:23:08,084  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-18 00:23:08,096  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-18 00:23:12,410  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-18 00:23:12,417  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-18 00:23:12,449  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-18 00:23:12,457  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-18 00:23:12,466  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-18 00:23:12,483  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-18 00:23:12,488  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-18 00:23:12,501  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-18 00:23:12,511  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:23:19,568  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:23:19,572  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:23:19,578  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:23:19,624  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:23:19,651  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:23:19,660  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:23:19,684  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:23:19,697  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:23:19,747  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:23:19,753  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:23:37,643  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-18 00:23:49,527  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-18 00:23:52,768  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-18 00:23:52,941  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-18 00:23:52,991  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-18 00:23:53,010  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-18 00:23:53,057  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-18 00:23:53,065  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-18 00:23:53,091  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-18 00:23:53,138  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-18 00:23:53,158  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-18 00:23:53,198  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-18 00:23:53,222  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-18 00:23:53,249  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-18 00:23:57,684  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-18 00:23:57,698  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-18 00:23:57,739  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-18 00:23:57,752  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-18 00:23:57,792  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-18 00:23:57,842  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-18 00:23:57,920  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-18 00:23:57,941  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-18 00:23:57,994  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:24:05,606  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:24:05,613  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:24:05,618  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:24:05,627  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:24:05,640  WARN [main] EmployeeRestAPI:94 - Response time is greater than 2000
+2021-06-18 00:24:05,660  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:24:05,678  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:24:05,718  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:24:05,727  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:24:05,737  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:24:05,743  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:24:12,311  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:24:12,319  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:24:12,330  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:24:12,334  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:24:12,341  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:24:12,348  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:24:12,363  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:24:12,460  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:24:12,464  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:24:12,734 DEBUG [main] cache:45 - Couldn't find template in cache for "extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:24:12,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en_US.ftl"): Not found
+2021-06-18 00:24:12,743 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en.ftl"): Not found
+2021-06-18 00:24:12,746 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent.ftl"): Found
+2021-06-18 00:24:12,747 DEBUG [main] cache:45 - Loading template for "extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/extent.ftl"
+2021-06-18 00:24:13,388 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:24:13,392 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en_US.ftl"): Not found
+2021-06-18 00:24:13,396 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-06-18 00:24:13,431 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-06-18 00:24:13,435 DEBUG [main] cache:45 - Loading template for "head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/head.ftl"
+2021-06-18 00:24:13,511 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:24:13,518 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en_US.ftl"): Not found
+2021-06-18 00:24:13,522 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-06-18 00:24:13,575 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-06-18 00:24:13,579 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/nav.ftl"
+2021-06-18 00:24:13,634 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:24:13,638 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en_US.ftl"): Not found
+2021-06-18 00:24:13,642 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-06-18 00:24:13,691 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-06-18 00:24:13,695 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view.ftl"
+2021-06-18 00:24:13,956 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:24:13,962 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en_US.ftl"): Not found
+2021-06-18 00:24:13,966 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-06-18 00:24:14,001 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-06-18 00:24:14,005 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view-charts.ftl"
+2021-06-18 00:24:14,126 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:24:14,130 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en_US.ftl"): Not found
+2021-06-18 00:24:14,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-06-18 00:24:14,138 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-06-18 00:24:14,142 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/standard.ftl"
+2021-06-18 00:24:14,569 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:14,636 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:14,764 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:14,831 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,269 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,274 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,278 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,287 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,294 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,341 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,443 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,458 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,483 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,525 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,533 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,586 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,664 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,675 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,706 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,724 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,734 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,743 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,753 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,785 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,788 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,792 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,794 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,798 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,801 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,804 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,811 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,827 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:24:15,835 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:24:15,838 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en_US.ftl"): Not found
+2021-06-18 00:24:15,867 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-06-18 00:24:15,877 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-06-18 00:24:15,888 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/category-view/category-view.ftl"
+2021-06-18 00:24:16,090 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:24:16,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en_US.ftl"): Not found
+2021-06-18 00:24:16,117 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-06-18 00:24:16,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-06-18 00:24:16,133 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/exception-view/exception-view.ftl"
+2021-06-18 00:24:16,180 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:24:16,183 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en_US.ftl"): Not found
+2021-06-18 00:24:16,191 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-06-18 00:24:16,202 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-06-18 00:24:16,208 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/dashboard-view/dashboard-view.ftl"
+2021-06-18 00:24:16,311 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:24:16,359 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en_US.ftl"): Not found
+2021-06-18 00:24:16,425 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-06-18 00:24:16,435 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-06-18 00:24:16,444 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/logs-view/testrunner-logs-view.ftl"
+2021-06-18 00:25:01,408  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-18 00:25:13,368  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-18 00:25:16,643  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-18 00:25:16,818  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-18 00:25:16,861  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-18 00:25:16,899  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-18 00:25:16,924  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-18 00:25:16,927  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-18 00:25:16,954  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-18 00:25:16,960  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-18 00:25:16,991  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-18 00:25:17,010  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-18 00:25:17,019  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-18 00:25:17,027  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-18 00:25:21,785  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-18 00:25:21,798  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-18 00:25:21,880  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-18 00:25:21,913  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-18 00:25:21,932  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-18 00:25:21,949  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-18 00:25:21,985  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-18 00:25:22,001  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-18 00:25:22,040  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:25:28,813  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:25:28,853  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:25:28,919  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:25:28,925  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:25:28,936  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:25:28,951  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:25:28,971  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:25:28,975  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:25:28,982  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:25:28,989  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:25:35,322  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:25:35,329  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:25:35,335  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:25:35,345  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:25:35,378  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:25:35,395  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:25:35,522  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:25:35,530  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:25:35,537  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:25:35,739 DEBUG [main] cache:45 - Couldn't find template in cache for "extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:25:35,745 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en_US.ftl"): Not found
+2021-06-18 00:25:35,750 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en.ftl"): Not found
+2021-06-18 00:25:35,753 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent.ftl"): Found
+2021-06-18 00:25:35,754 DEBUG [main] cache:45 - Loading template for "extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/extent.ftl"
+2021-06-18 00:25:37,116 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:25:37,117 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en_US.ftl"): Not found
+2021-06-18 00:25:37,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-06-18 00:25:37,218 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-06-18 00:25:37,219 DEBUG [main] cache:45 - Loading template for "head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/head.ftl"
+2021-06-18 00:25:37,229 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:25:37,230 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en_US.ftl"): Not found
+2021-06-18 00:25:37,231 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-06-18 00:25:37,232 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-06-18 00:25:37,236 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/nav.ftl"
+2021-06-18 00:25:37,439 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:25:37,446 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en_US.ftl"): Not found
+2021-06-18 00:25:37,448 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-06-18 00:25:37,450 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-06-18 00:25:37,465 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view.ftl"
+2021-06-18 00:25:37,616 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:25:37,619 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en_US.ftl"): Not found
+2021-06-18 00:25:37,621 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-06-18 00:25:37,622 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-06-18 00:25:37,623 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view-charts.ftl"
+2021-06-18 00:25:37,648 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:25:37,649 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en_US.ftl"): Not found
+2021-06-18 00:25:37,649 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-06-18 00:25:37,650 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-06-18 00:25:37,651 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/standard.ftl"
+2021-06-18 00:25:37,685 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,690 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,693 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,697 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,699 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,701 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,703 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,707 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,711 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,720 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,728 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,732 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,739 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,745 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,750 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,757 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,761 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,765 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,768 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,772 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,776 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,780 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,785 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,786 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,787 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,789 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,790 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,792 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,793 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,794 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,796 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,798 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:25:37,799 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:25:37,800 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en_US.ftl"): Not found
+2021-06-18 00:25:37,800 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-06-18 00:25:37,804 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-06-18 00:25:37,805 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/category-view/category-view.ftl"
+2021-06-18 00:25:37,813 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:25:37,814 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en_US.ftl"): Not found
+2021-06-18 00:25:37,815 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-06-18 00:25:37,816 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-06-18 00:25:37,817 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/exception-view/exception-view.ftl"
+2021-06-18 00:25:37,824 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:25:37,828 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en_US.ftl"): Not found
+2021-06-18 00:25:37,831 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-06-18 00:25:37,832 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-06-18 00:25:37,833 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/dashboard-view/dashboard-view.ftl"
+2021-06-18 00:25:37,862 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:25:37,866 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en_US.ftl"): Not found
+2021-06-18 00:25:37,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-06-18 00:25:37,873 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-06-18 00:25:37,877 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/logs-view/testrunner-logs-view.ftl"
+2021-06-18 00:25:59,748  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-18 00:26:10,766  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-18 00:26:14,050  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-18 00:26:14,319  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-18 00:26:14,380  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-18 00:26:14,408  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-18 00:26:14,448  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-18 00:26:14,451  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-18 00:26:14,477  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-18 00:26:14,540  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-18 00:26:14,563  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-18 00:26:14,607  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-18 00:26:14,663  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-18 00:26:14,705  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-18 00:26:19,213  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-18 00:26:19,218  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-18 00:26:19,235  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-18 00:26:19,246  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-18 00:26:19,253  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-18 00:26:19,272  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-18 00:26:19,285  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-18 00:26:19,293  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-18 00:26:19,319  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:27:02,636  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-18 00:27:12,945  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-18 00:27:16,112  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-18 00:27:16,207  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-18 00:27:16,216  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-18 00:27:16,221  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-18 00:27:16,227  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-18 00:27:16,229  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-18 00:27:16,235  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-18 00:27:16,251  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-18 00:27:16,270  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-18 00:27:16,282  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-18 00:27:16,299  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-18 00:27:16,321  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-18 00:27:20,847  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-18 00:27:20,867  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-18 00:27:20,924  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-18 00:27:20,950  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-18 00:27:20,978  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-18 00:27:21,030  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-18 00:27:21,054  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-18 00:27:21,205  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-18 00:27:21,348  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:27:28,795  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:27:28,816  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:27:28,840  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:27:28,850  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:27:28,868  WARN [main] EmployeeRestAPI:94 - Response time is greater than 2000
+2021-06-18 00:27:28,874  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:27:28,878  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:27:28,952  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:27:28,962  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:27:28,981  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:27:28,987  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:27:35,278  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:27:35,286  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:27:35,298  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:27:35,319  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:27:35,331  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:27:35,352  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:27:35,366  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:27:35,434  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:27:35,457  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:27:35,734 DEBUG [main] cache:45 - Couldn't find template in cache for "extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:27:35,755 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en_US.ftl"): Not found
+2021-06-18 00:27:35,758 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en.ftl"): Not found
+2021-06-18 00:27:35,763 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent.ftl"): Found
+2021-06-18 00:27:35,767 DEBUG [main] cache:45 - Loading template for "extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/extent.ftl"
+2021-06-18 00:27:36,357 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:27:36,361 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en_US.ftl"): Not found
+2021-06-18 00:27:36,365 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-06-18 00:27:36,369 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-06-18 00:27:36,393 DEBUG [main] cache:45 - Loading template for "head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/head.ftl"
+2021-06-18 00:27:36,406 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:27:36,412 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en_US.ftl"): Not found
+2021-06-18 00:27:36,416 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-06-18 00:27:36,471 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-06-18 00:27:36,476 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/nav.ftl"
+2021-06-18 00:27:36,535 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:27:36,540 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en_US.ftl"): Not found
+2021-06-18 00:27:36,544 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-06-18 00:27:36,618 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-06-18 00:27:36,650 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view.ftl"
+2021-06-18 00:27:36,975 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:27:36,988 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en_US.ftl"): Not found
+2021-06-18 00:27:36,998 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-06-18 00:27:37,022 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-06-18 00:27:37,037 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view-charts.ftl"
+2021-06-18 00:27:37,385 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:27:37,405 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en_US.ftl"): Not found
+2021-06-18 00:27:37,792 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-06-18 00:27:37,795 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-06-18 00:27:37,891 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/standard.ftl"
+2021-06-18 00:27:38,295 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,329 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,586 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,710 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,796 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,801 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,806 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,817 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,837 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,870 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,894 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,910 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,941 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,957 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:38,984 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,008 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,039 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,053 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,088 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,097 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,110 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,146 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,186 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,195 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,202 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,205 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,223 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,262 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,283 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,312 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,329 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,341 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:27:39,350 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:27:39,362 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en_US.ftl"): Not found
+2021-06-18 00:27:39,419 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-06-18 00:27:39,429 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-06-18 00:27:39,440 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/category-view/category-view.ftl"
+2021-06-18 00:27:39,536 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:27:39,547 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en_US.ftl"): Not found
+2021-06-18 00:27:39,557 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-06-18 00:27:39,568 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-06-18 00:27:39,574 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/exception-view/exception-view.ftl"
+2021-06-18 00:27:39,634 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:27:39,662 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en_US.ftl"): Not found
+2021-06-18 00:27:39,672 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-06-18 00:27:39,682 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-06-18 00:27:39,699 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/dashboard-view/dashboard-view.ftl"
+2021-06-18 00:27:39,810 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:27:39,815 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en_US.ftl"): Not found
+2021-06-18 00:27:39,817 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-06-18 00:27:39,824 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-06-18 00:27:39,834 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/logs-view/testrunner-logs-view.ftl"
+2021-06-18 00:49:52,665  INFO [main] EmployeeRestAPI:20 - Started Test case 001
+2021-06-18 00:50:07,873  INFO [main] EmployeeRestAPI:25 - checking Response body
+2021-06-18 00:50:11,007  INFO [main] EmployeeRestAPI:98 - Checking content encoding
+2021-06-18 00:50:11,124  INFO [main] EmployeeRestAPI:109 - Checking content length
+2021-06-18 00:50:11,130  INFO [main] EmployeeRestAPI:121 - Checking cookies
+2021-06-18 00:50:11,135  INFO [main] EmployeeRestAPI:35 - checking Response body
+2021-06-18 00:50:11,152  INFO [main] EmployeeRestAPI:51 - Checking response time
+2021-06-18 00:50:11,162  WARN [main] EmployeeRestAPI:57 - Response time is greater than 2000
+2021-06-18 00:50:11,168  INFO [main] EmployeeRestAPI:88 - Checking server type
+2021-06-18 00:50:11,178  INFO [main] EmployeeRestAPI:43 - Checking status code
+2021-06-18 00:50:11,185  INFO [main] EmployeeRestAPI:66 - Checking Status line
+2021-06-18 00:50:11,193  INFO [main] EmployeeRestAPI:78 - Checking Content Type
+2021-06-18 00:50:11,205  INFO [main] EmployeeRestAPI:127 - Test Cases finished
+2021-06-18 00:50:11,224  INFO [main] EmployeeRestAPI:18 - Starting TestCase 002
+2021-06-18 00:50:15,553  INFO [main] EmployeeRestAPI:95 - Checking content encoding
+2021-06-18 00:50:15,560  INFO [main] EmployeeRestAPI:106 - Checking content length
+2021-06-18 00:50:15,602  INFO [main] EmployeeRestAPI:58 - Checking response time
+2021-06-18 00:50:15,618  INFO [main] EmployeeRestAPI:85 - Checking server type
+2021-06-18 00:50:15,625  INFO [main] EmployeeRestAPI:39 - Checking status code
+2021-06-18 00:50:15,637  INFO [main] EmployeeRestAPI:47 - Checking Status line
+2021-06-18 00:50:15,644  INFO [main] EmployeeRestAPI:75 - Checking Content Type
+2021-06-18 00:50:15,677  INFO [main] EmployeeRestAPI:119 - Test Cases finished
+2021-06-18 00:50:15,718  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:50:22,530  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:50:22,537  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:50:22,545  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:50:22,553  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:50:22,559  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:50:22,570  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:50:22,576  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:50:22,582  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:50:22,591  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:50:22,610  INFO [main] EmployeeRestAPI:29 - Started Test Case 003
+2021-06-18 00:50:29,260  INFO [main] EmployeeRestAPI:125 - Checking content encoding
+2021-06-18 00:50:29,264  INFO [main] EmployeeRestAPI:136 - Checking content length
+2021-06-18 00:50:29,267  INFO [main] EmployeeRestAPI:79 - Checking Response Body
+2021-06-18 00:50:29,269  INFO [main] EmployeeRestAPI:88 - Checking response time
+2021-06-18 00:50:29,272  INFO [main] EmployeeRestAPI:115 - Checking server type
+2021-06-18 00:50:29,274  INFO [main] EmployeeRestAPI:60 - Checking status code
+2021-06-18 00:50:29,277  INFO [main] EmployeeRestAPI:68 - Checking Status line
+2021-06-18 00:50:29,279  INFO [main] EmployeeRestAPI:105 - Checking Content Type
+2021-06-18 00:50:29,282  INFO [main] EmployeeRestAPI:149 - Test Cases finished
+2021-06-18 00:50:29,581 DEBUG [main] cache:45 - Couldn't find template in cache for "extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:50:29,585 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en_US.ftl"): Not found
+2021-06-18 00:50:29,589 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent_en.ftl"): Not found
+2021-06-18 00:50:29,591 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("extent.ftl"): Found
+2021-06-18 00:50:29,592 DEBUG [main] cache:45 - Loading template for "extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/extent.ftl"
+2021-06-18 00:50:30,079 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:50:30,080 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en_US.ftl"): Not found
+2021-06-18 00:50:30,082 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-06-18 00:50:30,083 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-06-18 00:50:30,084 DEBUG [main] cache:45 - Loading template for "head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/head.ftl"
+2021-06-18 00:50:30,090 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:50:30,091 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en_US.ftl"): Not found
+2021-06-18 00:50:30,092 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-06-18 00:50:30,094 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-06-18 00:50:30,094 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/nav.ftl"
+2021-06-18 00:50:30,136 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:50:30,137 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en_US.ftl"): Not found
+2021-06-18 00:50:30,138 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-06-18 00:50:30,139 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-06-18 00:50:30,140 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view.ftl"
+2021-06-18 00:50:30,358 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:50:30,360 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en_US.ftl"): Not found
+2021-06-18 00:50:30,362 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-06-18 00:50:30,364 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-06-18 00:50:30,365 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/test-view-charts.ftl"
+2021-06-18 00:50:30,383 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:50:30,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en_US.ftl"): Not found
+2021-06-18 00:50:30,386 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-06-18 00:50:30,394 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-06-18 00:50:30,397 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/test-view/standard.ftl"
+2021-06-18 00:50:30,429 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,432 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,435 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,439 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,499 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,502 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,504 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,508 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,511 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,513 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,515 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,517 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,519 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,522 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,525 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,533 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,535 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,537 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,539 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,541 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,543 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,545 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,547 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,549 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,550 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,552 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,554 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,556 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,558 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,560 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,562 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,568 DEBUG [main] cache:45 - "test-view/standard.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 00:50:30,571 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:50:30,572 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en_US.ftl"): Not found
+2021-06-18 00:50:30,580 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-06-18 00:50:30,581 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-06-18 00:50:30,582 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/category-view/category-view.ftl"
+2021-06-18 00:50:30,591 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:50:30,593 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en_US.ftl"): Not found
+2021-06-18 00:50:30,593 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-06-18 00:50:30,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-06-18 00:50:30,596 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/exception-view/exception-view.ftl"
+2021-06-18 00:50:30,605 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:50:30,606 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en_US.ftl"): Not found
+2021-06-18 00:50:30,608 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-06-18 00:50:30,609 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-06-18 00:50:30,610 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/dashboard-view/dashboard-view.ftl"
+2021-06-18 00:50:30,629 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-06-18 00:50:30,630 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en_US.ftl"): Not found
+2021-06-18 00:50:30,632 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-06-18 00:50:30,633 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-06-18 00:50:30,633 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manjeeri/.m2/repository/com/aventstack/extentreports/3.0.0/extentreports-3.0.0.jar!/com/aventstack/extentreports/view/logs-view/testrunner-logs-view.ftl"
